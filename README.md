@@ -1,7 +1,9 @@
 # RFID-Attendance-system-using-arduino-
 Program for RFID attendance system which uploads the students data on adafruit servers 
 
-> # Hardware Requirements
+![image](https://github.com/Tranquil837/RFID-Attendance-system-using-arduino-/blob/main/main/rfid.jpg)
+
+> # Hardware Requirements !!
 
 Arduino 
 
@@ -15,6 +17,11 @@ RFID module
 
 ![image](https://user-images.githubusercontent.com/123855482/224344866-49312989-8904-4e26-8d70-97600ee76c0c.png)
 
-> # CIRCUIT DIAGRAM 
+> # CIRCUIT DIAGRAM !!
 
-![image](https://user-images.githubusercontent.com/123855482/224344866-49312989-8904-4e26-8d70-97600ee76c0c.png)
+![image](https://github.com/Tranquil837/RFID-Attendance-system-using-arduino-/blob/main/main/rfidckt.png)
+
+> # OUTPUT
+
+![image](https://github.com/Tranquil837/RFID-Attendance-system-using-arduino-/blob/main/main/output.png)
+
